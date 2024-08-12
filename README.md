@@ -1,1 +1,2 @@
 # IPL_Data_Analyis
+Developed an IPL data analysis pipeline[ETL] using AWS S3, Databricks, and PySpark. The project involved storing large datasets in S3 buckets, where data was ingested into Databricks for processing and analysis using PySpark. Leveraged PySpark for distributed data processing and executed complex queries to derive insights from IPL matches, such as player performance, team statistics, and match outcomes. The solution was optimized for scalability and performance, enabling efficient handling of large-scale IPL data.
